@@ -22,7 +22,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("    <footer class=\'py-5 bg-dark\'>");
 document.writeln("      <div class=\'footer\'>");
-document.writeln("        <p class=\'m-0 text-center text-white\'>Copyright 2022 Association for Distributed Artificial Intelligence, All Rights Reserved.</p>");
+document.writeln("        <p class=\'m-0 text-center text-white\'>Copyright 2023 Association for Distributed Artificial Intelligence, All Rights Reserved.</p>");
 document.writeln("      </div>");
 document.writeln("    </footer>");
 document.writeln("");
