@@ -1,0 +1,145 @@
+h1{
+    text-align: center;
+}
+
+.logo{
+    width: 50px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.logo_21{
+    width: 100px;
+    display: inline-block;
+    margin-right: 10px;
+    /* margin-top: 10px; */
+}
+#main-menu.navbar-default{
+    background: url(../img/banner-designed.jpg) #d4d2d2 no-repeat center scroll;
+}
+#main-menu.navbar-default .container{
+    margin: 10px auto;
+}
+.person-card{
+    display: inline-block;
+    padding: 20px;
+    width: 250px;
+    box-shadow: 0px 2px 18px rgb(201, 196, 196);
+}
+
+.Speakers-card{
+    height: 405px;
+    width: 300px;
+    padding: 20px;
+    box-shadow: 0px 2px 18px rgba(12, 12, 12, 0.73);
+    text-align: center;
+    display: inline-block;
+    float: left;
+    margin: 20px;
+}
+
+.Speakers-card-wrapper{
+    height: 405px;
+    width: 300px;
+    margin: auto;
+    padding: 0px;
+    margin: 20px;
+    float: left;
+}
+.Speakers-card img{
+    width: 204px;
+    height: 204px;
+    text-align: center;
+    margin: 0px auto 10px;
+}
+.green{
+    color: #72c02c
+}
+.Sponsorship-card{
+    width: 200px;
+    margin: 0px 20px;
+    padding: 20px;
+    /* box-shadow: 0px 2px 18px rgb(201, 196, 196);*/
+    text-align: center;
+    display: inline-block;
+}
+.card {
+    margin: 0px 3%;
+    margin-bottom: 20px;
+}
+.Sponsorship-card > p{
+    display: inline-block;
+}
+img {
+    display: block;
+    width: 100%;
+}
+
+.Sponsors-level{
+    color: #fff;
+    background: #cc7e61;
+    padding: 5px;
+    font-weight: bold;
+    width: 50%;
+    margin: auto;
+    /* background: #f3c387; */
+    /* background-color: #31708f; */
+    padding: 10px;
+    border-radius: 10px 10px 0 0;
+    border-bottom: 2px solid #DDD;
+    margin-top: 0;
+}
+
+
+.info-header {
+    background: #f3c387;
+    /*background-color: #31708f;*/
+    padding: 10px;
+    border-radius: 10px 10px 0 0;
+    border-bottom: 2px solid #DDD;
+    margin-top: 0;
+}
+.info-header1 {
+    background: #EEE;
+    border-bottom: 2px solid #DDD;
+    padding: 10px;
+    border-radius: 10px 10px 0 0;
+}
+/*.program-highlight{
+    border-radius: 10px 10px 0 0;
+    box-shadow: 0px 2px 18px rgb(201, 196, 196);
+    padding: 0px !important;
+}*/
+.program-highlight-img{
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+}
+footer {
+    background: url(../img/banner-designed.jpg);
+}
+.footer {
+    line-height: 100px;
+    height: 110px;
+}
+footer p {
+    color: #fff;
+    font-weight: bolder;
+}
+
+.navbar-header {
+    position: relative;
+}
+.return-but {
+    position: absolute;
+    left: -70px;
+    top: 11px;
+}
+.return-but_21 {
+    position: absolute;
+    left: -70px;
+    top: 20px;
+}
+.return-but img {
+    width: 35.2px;
+}
