@@ -5,7 +5,7 @@ document.writeln("    <meta charset=\'utf-8\'>");
 document.writeln("    <meta name=\'viewport\' content=\'width=device-width, initial-scale=1.0\'>");
 document.writeln("    <meta name=\'description\' content=\'\'>");
 document.writeln("    <meta name=\'author\' content=\'\'>");
-document.writeln("    <title>DAI-22-December 15 to 17, 2022, Tianjin, China</title>");
+document.writeln("    <title>DAI-23-Nov 30 to Dec 03, 2023, Singapore</title>");
 document.writeln("	<!-- core CSS -->");
 document.writeln("    <link href=\'../css/bootstrap.min.css\' rel=\'stylesheet\'>");
 document.writeln("    <link href=\'../css/font-awesome.min.css\' rel=\'stylesheet\'>");
