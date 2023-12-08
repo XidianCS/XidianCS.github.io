@@ -31,7 +31,7 @@ document.writeln("                        <span class=\'icon-bar\'></span>");
 document.writeln("                        <span class=\'icon-bar\'></span>");
 document.writeln("                    </button>");
 document.writeln("                    <a href=\'index.html\' style=\' color: #ad1e25 !important;text-shadow: #4a463f 10px 10px 10px;\'>");
-document.writeln("                        <img src=\'../../img/logo2022.png\' class=\'logo_21\'>");
+document.writeln("                        <img src=\'../../img/logo2023.png\' class=\'logo_21\'>");
 document.writeln("                        <span class=\'hidden-xs hidden-sm hidden-md\'>DAI-23-Nov 30 to Dec 03, 2023, Singapore</span>");
 document.writeln("                    </a>");
 document.writeln("                </div>");
